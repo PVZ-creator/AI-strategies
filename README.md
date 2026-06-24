@@ -15,5 +15,5 @@
 ## Run in Google Colab
 1. Open https://colab.research.google.com  
 2. Upload a notebook (e.g.,  Modeling_AI_strategies.ipynb)  
-3. Upload the file: N300_y2.9.edgelist  
+3. Upload files: N300_y2.7.edgelist, N300_y2.9.edgelist, N300_y3.1.edgelist  
 4. Run all blocks (Runtime → Run)
