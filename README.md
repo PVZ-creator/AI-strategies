@@ -16,4 +16,4 @@ The code "Modeling_AI_strategies.ipynb" consists of blocks of sequential constru
 1. Open https://colab.research.google.com  
 2. Upload a notebook (e.g.,  Modeling_AI_strategies.ipynb)  
 3. Upload the file: N300_y2.9.edgelist  
-4. Run all cells (Runtime → Run all)
+4. Run all blocks (Runtime → Run)
