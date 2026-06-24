@@ -3,7 +3,7 @@
 ## This archive contains Python and R notebooks implementing the simulation models and graphs construction procedures used in the study. A sample networks file is included to demonstrate execution. The notebooks can be run in standard environments such as Google Colab and include all necessary steps to obtain the presented results.
 
 # Code and Data
-The code "Modeling_AI_strategies.ipynb" consists of blocks of sequential construction of figures and graphs.
+## The code "Modeling_AI_strategies.ipynb" consists of blocks of sequential construction of figures and graphs.
 
 ## Files
 - Modeling_AI_strategies.ipynb — runs model simulations, produces figures, prepares parameters and data   
